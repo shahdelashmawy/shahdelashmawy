@@ -9,16 +9,13 @@ function Main() {
       <div className="about-section">
         <div className="content">
           <div className="social_icons">
-            <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href="https://www.linkedin.com/in/shahd-el-ashmawy-a6519314a/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Shahd El Ashmawy</h1>
           <p>Product Manager</p>
 
           <div className="mobile_social_icons">
-            <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
-          </div>
-        </div>
-      </div>
+            <a href="https://www.linkedin.com/in/shahd-el-ashmawy-a6519314a/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
     </div>
   );
 }
