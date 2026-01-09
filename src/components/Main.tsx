@@ -16,6 +16,9 @@ function Main() {
 
           <div className="mobile_social_icons">
             <a href="https://www.linkedin.com/in/shahd-el-ashmawy-a6519314a/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
